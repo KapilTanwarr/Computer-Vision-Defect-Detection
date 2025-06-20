@@ -1,0 +1,10 @@
+tensorflow>=2.10
+opencv-python
+numpy
+pandas
+streamlit
+matplotlib
+scikit-learn
+scikit-image
+Pillow
+tqdm
