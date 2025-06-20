@@ -49,5 +49,4 @@ Upload a product image and view prediction + Grad-CAM.
 ## 🧠 Tech Stack
 TensorFlow · Keras · OpenCV · Streamlit · Grad‑CAM · Python
 
-## ✍️ Author
-Your Name · your.email@example.com
+
